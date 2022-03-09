@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FlipShop</string>
+    <string name="register_account_text_login_screen"><u>Register Account</u></string>
+    <string name="i_agree_to_the_terms_and_condition">I agree to the <u>terms and conditions</u></string>
+    <string name="login"><u>Login</u></string>
+
+    <string name="err_msg_enter_first_name">Please enter first name.</string>
+    <string name="err_msg_enter_last_name">Please enter last name.</string>
+    <string name="err_msg_enter_email">Please enter email.</string>
+    <string name="err_msg_enter_password">Please enter password.</string>
+    <string name="err_msg_enter_confirm_password">Please enter confirm password.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Password and confirm password does not match.</string>
+    <string name="err_msg_agree_terms_and_condition">Please agree terms and condition.</string>
+    <string name="registery_successfull">Thanks for registering!</string>
+    <string name="pls_enter_a_valid_email_id">Please enter a valid email ID</string>
+    <string name="please_wait">Please Wait ...</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="resgister_success">You are now registered successfully.</string>
+    <string name="email_sent_success">Email sent successfully to reset your password!</string>
+    <string name="email_send_text">Enter your e-mail address\nWe will send you a verication email to reset your password</string>
+</resources>

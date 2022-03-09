@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/drawable/auth_screen_background.xml" value="0.10677083333333333" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/drawable/button_bg.xml" value="0.10677083333333333" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/drawable/ic_flip_shop_login.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/drawable/login_bg.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/drawable/progress_dialog.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/drawable/splash_box.xml" value="0.15" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/layout/activity_forgot_password.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/layout/activity_splash.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/layout/dialog_progress.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/FlipShop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13055555555555556" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
